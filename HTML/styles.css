@@ -1,0 +1,46 @@
+html{
+    background-color: rgba(204, 183, 144, 0.74);
+}
+
+table{
+    background-color: rgb(255 255 255 / 58%);
+    margin-top: 100px;
+    width: 400px;
+}
+
+main{
+    display: flex;
+}
+
+.posicion{
+    margin-left: 12%;
+    padding: 5%;
+    text-align: center;
+}
+
+p{
+    width: 300px;
+    text-align: justify;
+}
+
+h1{
+    position: absolute;
+    margin: 0;
+}
+
+ul{
+    display: flex;
+    justify-content: end;
+}
+
+a{
+    margin-inline: 15px;
+}
+
+footer{
+    display: flex;
+}
+
+.posicion2{
+    margin: 5% 5% 0 5%;
+}
